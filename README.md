@@ -1,11 +1,11 @@
-# UTN FRRO - Asignatura: Diseño de Sistemas.
+# UTN FRRO - Asignatura: Diseï¿½o de Sistemas.
 ## Proyecto: repuestos - Creado: [UTDC009 - LRI 11/8/19]
 
 ## Ver Notas desarrollo LRI --> ue_DOCUMENTACION.md
 
-## Para ejecutar la aplicación Caso Repuestos
-1. Botón derecho sobre XXXXXXXX \ Run as \ Java Application   
-2. En chrome URL: http://localhost:8080/ --> Esto mapea al Menú pcial que corresponde al XXXXX       
+## Para ejecutar la aplicaciï¿½n Caso Repuestos
+1. BotÃ³n derecho sobre RepuestosApplication.java \ Run as \ Java Application   
+2. En chrome URL: http://localhost:8080/ --> Esto mapea al Menï¿½ pcial que corresponde al home.html       
 
 ## Ejecutar en Heroku [Web] 
 URL de la APP: XXXXXXXXX 
