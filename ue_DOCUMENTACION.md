@@ -16,6 +16,8 @@ URL de la APP: XXXXXXXXX
 2. Creación del repositorio en GitHub --> https://github.com/utnlri/repuestos  
 3. Import del proyecto en Eclipse y Push del resto de los files creados con Spring Initializr  
 .   
-Ver detalles en Evernote "UTDC009 - DS Spring 2019::Programar Caso Repuestos"   
+Ver detalles en Evernote "UTDC009 - DS Spring 2019::Programar Caso Repuestos"  
+4. Creación de:   
+    + Home.html  
 [11/8/19 FIN]
 
