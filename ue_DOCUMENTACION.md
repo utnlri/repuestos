@@ -23,3 +23,10 @@ Ver detalles en Evernote "UTDC009 - DS Spring 2019::Programar Caso Repuestos"
    . 
 [11/8/19 FIN]
 
+[13/8/19 LRI]   
+1. Se agregan a GitHub file .project (con esto al hacer Clone de URI del GitHub se resuelve el problema para que el Eclipse reconozca el proyecto como Mavem  y Java de forma automática)    
+2. Se agregan a GitHub file .classpath copiadas del proyecto de RRHH   
+3. Se agrega folder src/test/resources para evitar error que se producía en las VM de la facultad al ejecutar la aplicación   
+4. Se corrige el home.html porque en el título tenía "Caso Juguetes" --> "Caso Repuestos"  
+[13/8/19 FIN]
+
