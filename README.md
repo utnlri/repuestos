@@ -8,7 +8,7 @@
 2. En chrome URL: http://localhost:8080/ --> Esto mapea al Men� pcial que corresponde al home.html       
 
 ## Ejecutar en Heroku [Web] 
-URL de la APP: XXXXXXXXX 
+URL de la APP:  https://dsapprepuestos.herokuapp.com/   
 ## Como ver la base de datos H2
 Para ver la consola de la base de datos [H2](http://www.h2database.com/) de la aplicación:
 1. En el brower ir a: [http://localhost:8080/h2-console](http://localhost:8080/h2-console)

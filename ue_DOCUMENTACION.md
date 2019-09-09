@@ -8,7 +8,7 @@ Creado: [UTDC009 - LRI 11/8/19]
 2. En chrome URL: http://localhost:8080/ --> Esto mapea al MenÔøΩ pcial que corresponde al home.html 
 
 ## Ejecutar en Heroku [Web] 
-URL de la APP: XXXXXXXXX  
+URL de la APP: https://dsapprepuestos.herokuapp.com/  
 
 ## BitÔøΩcora proyecto repuestos
 [11/8/19 LRI] Tareas realizadas:     
@@ -24,9 +24,16 @@ Ver detalles en Evernote "UTDC009 - DS Spring 2019::Programar Caso Repuestos"
 [11/8/19 FIN]
 
 [13/8/19 LRI]   
-1. Se agregan a GitHub file .project (con esto al hacer Clone de URI del GitHub se resuelve el problema para que el Eclipse reconozca el proyecto como Mavem  y Java de forma autom·tica)    
+1. Se agregan a GitHub file .project (con esto al hacer Clone de URI del GitHub se resuelve el problema para que el Eclipse reconozca el proyecto como Mavem  y Java de forma automÔøΩtica)    
 2. Se agregan a GitHub file .classpath copiadas del proyecto de RRHH   
-3. Se agrega folder src/test/resources para evitar error que se producÌa en las VM de la facultad al ejecutar la aplicaciÛn   
-4. Se corrige el home.html porque en el tÌtulo tenÌa "Caso Juguetes" --> "Caso Repuestos"  
+3. Se agrega folder src/test/resources para evitar error que se producÔøΩa en las VM de la facultad al ejecutar la aplicaciÔøΩn   
+4. Se corrige el home.html porque en el tÔøΩtulo tenÔøΩa "Caso Juguetes" --> "Caso Repuestos"  
 [13/8/19 FIN]
+
+[8/9/19 LRI]
+1. Se agrega sufijo "[NO IMPLEMENTADO A√öN]" en opciones de men√∫ que a√∫n no est√°n operativas
+2. Se agreagan comentarios de cabacera a las clases que ya estaban creadas desde el 11/8/19
+3. Se detect√≥ que al inicializar la App Spring no est√° considerando los RequestMapping (SIN RESOLVER) --> se volvieron atr√°s los cambios de
+ejemplosProgramaci√≥n (ya que se pasaron al caso Juguetes)
+[8/9/19 FIN]
 

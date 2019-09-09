@@ -5,6 +5,10 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+//ControladorHome --> Este controlador está fuera del alcance del C.U. del enunciado de Repuestos.
+//Se usa para poder devolver una view con el menu principal utilizado en la implementación del caso Repuestos
+//[LRI 11/8/19]
+
 
 @Controller
 public class ControladorHome {
